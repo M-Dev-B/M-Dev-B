@@ -85,6 +85,6 @@
 ---
 
 ## 📫 Connect with Me  
-🌐 [GitHub](https://github.com/) | [LinkedIn](https://www.linkedin.com/) | ✉️ mehul@example.com  
+🌐 [GitHub](https://github.com/) | [LinkedIn](https://www.linkedin.com/) | ✉️ mahajanmehul553@gmail.com  
 
 ---
