@@ -1,24 +1,92 @@
-# 💫 About Me:
-👋 About Me<br>Hi there! I'm Mehul, a passionate AI & Data Science student with a strong interest in solving real-world problems using data-driven approaches. 🚀<br><br>💻 I specialize in:<br><br>Front-End Development with React, Framer Motion, and modern JavaScript libraries & frameworks<br><br>Data Analytics using Python, Excel, SQL, and Tableau<br><br>Python for Data Analysis – from data wrangling to insightful visualizations<br><br>🧠 Currently diving deep into Machine Learning, exploring model building and predictive analytics.<br>♟️ Outside of tech, I love playing chess – it keeps my mind sharp and strategic!<br><br>📈 Always curious. Always learning. Let’s build something amazing together!
+# 👋 Hi, I'm Mehul Mahajan  
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mehul-mahajan-565463273) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahajanmehul553@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=M-Dev-B&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=M-Dev-B&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Dev-B&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=M-Dev-B&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🎓 Final-year B.Sc. student in **Artificial Intelligence & Data Science** at Khalsa College, Amritsar (NAAC A+).  
+💡 Passionate about **Data Science, Artificial Intelligence, Machine Learning, and Modern Web Development**.  
+🌍 Aspiring to pursue a **Master’s in Information Technology** at Concordia University of Edmonton.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=M-Dev-B&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🔧 Technical Skills  
+
+**Programming Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+**Data Science & AI:**  
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)  
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white)  
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge&logo=opencv&logoColor=white)  
+![NLP](https://img.shields.io/badge/NLP-2496ED?style=for-the-badge&logo=python&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+
+**Web Development:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)  
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)  
+
+**Database & BI Tools:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)  
+
+---
+
+## 💼 Experience  
+
+**Data Science Intern** | Technocolabs Software | *June 2025 – July 2025*  
+- Assisted the data science team in **data preprocessing, analysis, and model building**.  
+- Cleaned and prepared large datasets using **Pandas** and **NumPy**, reducing inconsistencies.  
+- Gained hands-on experience with **real-world data science workflows** and industry-standard tools.  
+
+---
+
+## 🚀 Projects  
+
+### 1. Medical Assistance Application | *Sept 2025*  
+- Built a **full-stack AI medical assistance web app**.  
+- Engineered an ML model to **predict diseases** based on symptoms.  
+- Designed a **deep learning model** for **brain tumor detection from MRI scans**.  
+- Developed an **AI-powered chatbot** for user queries.  
+- Integrated **maps for hospital locations**.  
+
+### 2. AI-based Object Recognition Model | *Nov 2024*  
+- Trained and optimized a **CNN model** for **real-time object recognition**.  
+- Achieved **85% accuracy** with data preprocessing & augmentation.  
+- Demonstrated at a **university tech fest** for real-world adoption.  
+
+### 3. Data Analyst Job Market Analysis with SQL | *Sept 2024*  
+- Conducted analysis of the **data analyst job market** using SQL.  
+- Identified **top-paying jobs, trending skills, and salary patterns**.  
+- Highlighted the premium on **advanced SQL proficiency** and niche skills.  
+
+---
+
+## 📈 Currently Learning  
+- **Advanced Deep Learning (Transformers, GANs)**  
+- **Three.js & GSAP for creative frontend**  
+- **Data Visualization with Power BI & D3.js**  
+
+---
+
+## 📫 Connect with Me  
+🌐 [GitHub](https://github.com/) | [LinkedIn](https://www.linkedin.com/) | ✉️ mehul@example.com  
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
