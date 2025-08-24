@@ -68,4 +68,23 @@
 ### 2. AI-based Object Recognition Model | *Nov 2024*  
 - Trained and optimized a **CNN model** for **real-time object recognition**.  
 - Achieved **85% accuracy** with data preprocessing & augmentation.  
-- Demonstrated at a **university tech fest** fo
+- Demonstrated at a **university tech fest** for real-world adoption.  
+
+### 3. Data Analyst Job Market Analysis with SQL | *Sept 2024*  
+- Conducted analysis of the **data analyst job market** using SQL.  
+- Identified **top-paying jobs, trending skills, and salary patterns**.  
+- Highlighted the premium on **advanced SQL proficiency** and niche skills.  
+
+---
+
+## 📈 Currently Learning  
+- **Advanced Deep Learning (Transformers, GANs)**  
+- **Three.js & GSAP for creative frontend**  
+- **Data Visualization with Power BI & D3.js**  
+
+---
+
+## 📫 Connect with Me  
+🌐 [GitHub](https://github.com/) | [LinkedIn](https://www.linkedin.com/) | ✉️ mehul@example.com  
+
+---
