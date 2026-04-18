@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mehul Mahajan  
+# 👋 Hi, I'm Mehul
 
 🎓 Final-year B.Sc. student in **Artificial Intelligence & Data Science** at Khalsa College, Amritsar (NAAC A+).  
 💡 Passionate about **Data Science, Artificial Intelligence, Machine Learning, and Modern Web Development**. 
@@ -57,12 +57,12 @@
 
 ## 🚀 Projects  
 
-### 1. Medical Assistance Application | *Sept 2025*  
-- Built a **full-stack AI medical assistance web app**.  
-- Engineered an ML model to **predict diseases** based on symptoms.  
-- Designed a **deep learning model** for **brain tumor detection from MRI scans**.  
-- Developed an **AI-powered chatbot** for user queries.  
-- Integrated **maps for hospital locations**.  
+### 1. Pulse | April 2026
+- Built a **real-time collaborative whiteboard** with spatial-aware AI using Next.js, TypeScript, and Gemini 2.5 Flash.
+- Engineered Liveblocks sync engine for vector state persistence and real-time cursor presence.
+- Implemented dual-AI: text-to-diagram generation + spatial analysis feedback.
+- Achieved **60fps canvas performance** via dynamic imports and batched mutations.
+- Integrated Clerk authentication and glassmorphic UI with dark/light mode.
 
 ### 2. AI-based Object Recognition Model | *Nov 2024*  
 - Trained and optimized a **CNN model** for **real-time object recognition**.  
