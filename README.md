@@ -57,7 +57,7 @@
 
 ## 🚀 Projects  
 
-### 1. Pulse | April 2026
+### 1. Pulse | *April 2026*
 - Built a **real-time collaborative whiteboard** with spatial-aware AI using Next.js, TypeScript, and Gemini 2.5 Flash.
 - Engineered Liveblocks sync engine for vector state persistence and real-time cursor presence.
 - Implemented dual-AI: text-to-diagram generation + spatial analysis feedback.
