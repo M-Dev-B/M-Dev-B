@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Mehul Mahajan  
 
 🎓 Final-year B.Sc. student in **Artificial Intelligence & Data Science** at Khalsa College, Amritsar (NAAC A+).  
-💡 Passionate about **Data Science, Artificial Intelligence, Machine Learning, and Modern Web Development**.  
-🌍 Aspiring to pursue a **Master’s in Information Technology** at Concordia University of Edmonton.  
+💡 Passionate about **Data Science, Artificial Intelligence, Machine Learning, and Modern Web Development**. 
 
 ---
 
