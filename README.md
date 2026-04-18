@@ -78,8 +78,7 @@
 
 ## 📈 Currently Learning  
 - **Advanced Deep Learning (Transformers, GANs)**  
-- **Three.js & GSAP for creative frontend**  
-- **Data Visualization with Power BI & D3.js**  
+- **Three.js & GSAP & NEXTJS for creative frontend**    
 
 ---
 
